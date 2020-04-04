@@ -1,0 +1,25 @@
+Installation instructions for R and Rstudio
+Below you find a short instruction for installing the two components you need R and RStudio. There are plenty online resources, and very nice intros to R and RStudio available, including interactive courses, videos and furthermore online. So just search for them with your favorite search engine. If you have problems installing, the easiest way is searching online the errors you encounter. For troubleshooting check out:
+https://support.rstudio.com/hc/en-us/articles/200488508-RStudio-Desktop-Will-Not-Start
+
+For Windows users:
+1. Download the file directly using this link http://ftp5.gwdg.de/pub/misc/cran/bin/windows/base/R-3.6.2-win.exe
+2. Install R by clicking on the fileR-3.6.2-win.exe (might also be named R-3.6.2-win). Leave all default settings in the installation options.
+3. Download RStudio from https://www.rstudio.com/products/rstudio/download/ (click on click on the free option “RStudio Desktop” and Download the appropriate Version).
+4. Install RStudio by clicking on the file RStudio-3.6.2.exe (or RStudio-whichever version). Leave all default settings in the installation options.
+5. Open RStudio using the start menu.
+
+For Mac OS users:
+1. Download R directly using this link http://ftp5.gwdg.de/pub/misc/cran/bin/macosx/R-3.6.2.pkg Install R. Leave all default settings in the installation options.
+3. Download RStudio from https://www.rstudio.com/products/rstudio/download/
+(click on the free option “RStudio Desktop” and Download the newest Version RStudio for Mac). 
+4. Install RStudio by dragging the application icon to your Applications folder. Leave all default settings in the installation options.
+5. Open RStudio by clicking on the icon in the launchpad.
+
+For Linux users:
+Check out the link below for R:
+http://ftp5.gwdg.de/pub/misc/cran/
+and this one for RStudio
+https://www.rstudio.com/products/rstudio/download/
+
+Again, if something does not work, don’t worry. You can search for the problem online. And as I said, there is plenty free online courses, and very nice intros to R and RStudio available.
